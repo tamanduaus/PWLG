@@ -1,10 +1,9 @@
 # PWLG – Personalised Wordlist Generator
 
-Overview
-This project aims to provide a simple, quick and expandable solution for the generation of target wordlists. It combines multiple elements to generate.
+This project provides a simple, quick and expandable solution for the generation of target wordlists. It combines multiple elements to generate.
 
 
-Necessary libraries
+# Necessary libraries
 
 To use this software you need the simple_term_menu library:
 
@@ -17,7 +16,7 @@ simple_term_menu  is available on on PyPI for Python 3.3+. You can install with 
 Alternatively, you can use the PWLG “simple version” where the customised selection menu is absent.
 
 
-Usage
+# Usage
 
 Simply prompt the program with Python:
 
